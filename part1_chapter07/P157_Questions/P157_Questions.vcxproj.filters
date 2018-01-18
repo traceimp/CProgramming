@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SimpleWhile.c">
+    <ClCompile Include="P157_Questions.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

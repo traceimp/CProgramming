@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SimpleWhile.c">
+    <ClCompile Include="..\part1_chapter07\Main_Template.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
