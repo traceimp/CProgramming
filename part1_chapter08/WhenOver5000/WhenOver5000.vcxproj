@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{039DD829-2E01-4229-8472-D46038872090}</ProjectGuid>
+    <ProjectGuid>{9743F46F-BA43-43AD-8249-38E07F809B52}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>CalOne</RootNamespace>
+    <RootNamespace>WhenOver5000</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -143,7 +143,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CalOne.c" />
+    <ClCompile Include="WhenOver5000.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
