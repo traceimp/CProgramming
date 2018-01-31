@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{CC6017B7-5F72-40F1-8433-0D54D7443BCE}</ProjectGuid>
+    <ProjectGuid>{73C43C1B-74F6-4897-B887-55352FAD3E33}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>part2ch13</RootNamespace>
+    <RootNamespace>ArrayNamePointerOperation</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -143,7 +143,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.c" />
+    <ClCompile Include="ArrayNamePointerOperation.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

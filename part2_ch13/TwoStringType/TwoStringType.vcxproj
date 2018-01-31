@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{CC6017B7-5F72-40F1-8433-0D54D7443BCE}</ProjectGuid>
+    <ProjectGuid>{E55C1316-0900-4CBF-BCD6-3A53D6F3E9FC}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>part2ch13</RootNamespace>
+    <RootNamespace>TwoStringType</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -143,7 +143,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.c" />
+    <ClCompile Include="TwoStringType.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

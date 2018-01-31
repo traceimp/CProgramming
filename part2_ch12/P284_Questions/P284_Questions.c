@@ -21,6 +21,7 @@ int main(void)
 
 	ptr1 = &num2, ptr2 = &num1;
 	printf("%d %d\n", num1, num2);
+	printf("%d %d\n", *ptr1, *ptr2);
 
 	return 0;
 }
