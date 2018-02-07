@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{F0C44464-E2D7-49B5-9ABE-E00FB9AA1145}</ProjectGuid>
+    <ProjectGuid>{E4479D19-F7A8-4480-B0F9-968A47362AA0}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>HelloComment</RootNamespace>
+    <RootNamespace>VoidTypePointer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -143,7 +143,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="HelloComment.c" />
+    <ClCompile Include="VoidTypePointer.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

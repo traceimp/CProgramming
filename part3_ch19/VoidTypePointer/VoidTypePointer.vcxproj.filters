@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PrintfOne.c">
+    <ClCompile Include="VoidTypePointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
